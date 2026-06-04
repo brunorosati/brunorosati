@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bruno Rosati
 
-<!--
-**brunorosati/brunorosati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneur and operator. Currently building AI-integrated growth systems at [Montrega](https://montrega.com), a D2C fragrance brand I co-founded.
 
-Here are some ideas to get you started:
+- Co-founded Montrega — Ranked #4 of 37 businesses in cohort, 30% offline conversion rate, 60%+ gross margin
+- Built end-to-end AI outreach pipeline on n8n + Claude API + Airtable processing qualified leads at $0.22 each
+- Previously founded OnetoOne, a sneaker resale operation generating US$12K+ across 250+ customers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Now:** Studying at [TETR College of Business](https://tetr.com) (global rotational program, degree via UBI Brussels). Rotating through Europe and Shanghai next.
+
+**Looking for:** Founder Associate, BD, Growth, and AI Ops roles at seed to Series A startups. Remote or UAE/Europe/LATAM.
+
+**Languages:** Portuguese (native) · Spanish (native) · English (fluent) · Italian (beginner)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/bruno-rosati) · bruno.rosati@tetr.com
